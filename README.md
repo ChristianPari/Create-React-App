@@ -1,4 +1,7 @@
+# Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I simply just removed the files and edited them to the way I desire for a basic setup of the start of the React App so I don't have to do any deletion of files later on.
 
 ## Available Scripts
 
